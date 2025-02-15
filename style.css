@@ -4,11 +4,11 @@ body {
 }
 
 h2 {
-    width: 20ch;
+    width: 30ch;
     text-wrap: nowrap;
     font-family: monospace;
     overflow: hidden;
-    animation: typing 2s steps(20) infinite alternate-reverse;
+    animation: typing 3s steps(20) infinite alternate-reverse;
 }
 
 
