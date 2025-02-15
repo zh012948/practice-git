@@ -1,3 +1,8 @@
+body {
+    background-color: black;
+    color: white;
+}
+
 h2 {
     width: 20ch;
     text-wrap: nowrap;
